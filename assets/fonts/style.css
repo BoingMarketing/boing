@@ -1,0 +1,12 @@
+@font-face {
+   font-family: 'PetitaBold';
+   src: url('PetitaBold/font.ttf');
+}
+@font-face {
+   font-family: 'PetitaMedium';
+   src: url('PetitaMedium/font.ttf');
+}
+@font-face {
+   font-family: 'PetitaLight';
+   src: url('PetitaLight/font.ttf');
+}
